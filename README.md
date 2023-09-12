@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SOBRE:
 🔭 Atualmente estou cursando Bacharelado em Sistemas de Informação.<br>🤝 Procuro Estagio na área de desenvolvimento web.<br>🌱 Atualmente tenho estudado o Back-end.<br>
 
 
