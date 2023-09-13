@@ -1,5 +1,5 @@
-# 💫 SOBRE:
-🔭 Atualmente estou cursando Bacharelado em Sistemas de Informação.<br>🤝 Procuro Estagio na área de desenvolvimento web.<br>🌱 Atualmente tenho estudado o Back-end.<br>
+# 💫 ABOUT-ME:
+🔭 I'm currently studying a bachelor's degree in Information Systems..<br>🤝 I'm looking for an internship in the web development area.<br>🌱 I'm currently studying Back-end.<br>
 
 
 ## 🌐 Socials:
