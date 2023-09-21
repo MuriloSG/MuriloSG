@@ -12,9 +12,6 @@
   <div>
       <img src="https://github-readme-stats.vercel.app/api?username=MuriloSG&theme=swift&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   </div>
-  <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloSG&theme=swift&hide_border=false" alt="GitHub Streak Stats">
-  </div>
 </div>
 
 ---
